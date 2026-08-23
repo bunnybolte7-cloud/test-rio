@@ -51,5 +51,6 @@ public class BuggyCalculator {
 
         // Test Bug 2: This line will crash the program immediately
         printReverseString(null); 
+        println("hello")
     }
 }
